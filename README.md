@@ -1,2 +1,2 @@
-# peta-rupabumi-indonesia-rbi
-Peta RBI
+# Peta Rupabumi Indonesia (RBI)
+Penyimpanan sementara data-data dari peta RBI
